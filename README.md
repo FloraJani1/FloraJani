@@ -29,7 +29,7 @@ Hello! I'm Flora Jani, a passionate data-driven storyteller who turns raw data i
 I have extensive experience working with diverse data sets and tools to uncover trends, generate reports, and present findings that help drive business growth. Whether it's through detailed dashboards or comprehensive reports, my goal is to make data accessible and useful for all stakeholders.
 
 ## 🌟 Featured Projects
-### 1. [Credi Card Transactions Analysis](https://github.com/FloraJani1/Credit_Card_Financial_Report)
+### 1. [Credit Card Transactions Analysis](https://github.com/FloraJani1/Credit_Card_Financial_Report)
 Created an interactive dashboard using SQL database data for real-time insights, streamlined data processing, and shared actionable insights with stakeholders for decision-making processes.
 
 ### 2. [E-commerce Data Analysis](https://github.com/florajani1/ecommerce-data-analysis)
