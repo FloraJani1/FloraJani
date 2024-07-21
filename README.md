@@ -32,10 +32,10 @@ I have extensive experience working with diverse data sets and tools to uncover 
 ### 1. [Credi Card Transactions Analysis](https://github.com/FloraJani1/Credit_Card_Financial_Report)
 Created an interactive dashboard using SQL database data for real-time insights, streamlined data processing, and shared actionable insights with stakeholders for decision-making processes.
 
-### 2. [E-commerce Data Analysis](https://github.com/florajani/ecommerce-data-analysis)
+### 2. [E-commerce Data Analysis](https://github.com/florajani1/ecommerce-data-analysis)
 An in-depth analysis of e-commerce sales data to identify trends, optimize inventory, and improve customer satisfaction.
 
-### 3. [Marketing Campaign Effectiveness](https://github.com/florajani/marketing-campaign-effectiveness)
+### 3. [Marketing Campaign Effectiveness](https://github.com/florajani1/marketing-campaign-effectiveness)
 A project aimed at evaluating the success of various marketing campaigns using Python.
 
 
