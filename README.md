@@ -42,6 +42,6 @@ A project aimed at evaluating the success of various marketing campaigns using P
 ## 📫 Let's Connect!
 - **LinkedIn**: [Flora Jani](https://www.linkedin.com/in/florajani)
 - **Twitter**: [@FloraJani](https://twitter.com/florajani)
-- **Email**: flora.jani@example.com
+- **Email**: florajani1@outlook.com
 
 
