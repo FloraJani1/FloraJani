@@ -19,8 +19,6 @@ Hello! I'm Flora Jani, a passionate data-driven storyteller who turns raw data i
 - **Data Visualization**:
   ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- **Programming**:
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Advanced MS Excel**:
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - **Problem-Solving**: Analytical skills to tackle complex business challenges
